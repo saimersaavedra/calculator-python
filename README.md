@@ -11,9 +11,3 @@ This repository contains a basic interactive calculator implemented in Python. T
   - Division
 - **Exit Command:**
   - Users can exit the calculator at any time by typing "Exit".
-
-## How to Use
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/saimersaavedra/calculator-python.git
